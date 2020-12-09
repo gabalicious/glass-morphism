@@ -27,7 +27,8 @@ npm start
 ```
 
 ## Version History
-
+* 0.2
+    * Update Card borders
 * 0.1
     * Initial Release
 
