@@ -6,7 +6,7 @@ Simple demo showing Glass Morphism UI.
 
 This is a demo showing Glass Morphism UI.  
 
-![Demo gif of UI](https://raw.githubusercontent.com/gabalicious/glass-morphism/screenshot.gif)
+![Demo gif of UI](https://github.com/gabalicious/glass-morphism/raw/main/screenshot.gif)
 
 ## Getting Started
 
